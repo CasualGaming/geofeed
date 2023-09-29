@@ -1,3 +1,6 @@
 # prefix,country_code,region_code,city,postal
+2001:67c:c4::/48,NO,NO-50,Trondheim,7068
+2a10:a642:100::/40,NO,NO-50,Trondheim,7068
+# TrondeLAN
 151.216.0.0/22,NO,NO-50,Trondheim,7036
 2a10:a642:100::/44,NO,NO-50,Trondheim,7036
